@@ -1,0 +1,19 @@
+#show-contact {
+  display: none;
+}
+
+.show-personal{
+  display: none;
+}
+
+.show-personal-contact{
+  display: none;
+}
+
+.additionalEmail{
+  display: none;
+}
+
+.showAdditionalEmail{
+  display: none;
+}
